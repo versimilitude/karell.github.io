@@ -1,1 +1,2 @@
-PROCESS-NAME,OneDrive.exe
+payload:
+  - PROCESS-NAME,OneDrive.exe
